@@ -5,5 +5,5 @@ site_author: Jianjun Xie
 repo_url: https://github.com/jieseattle/datameshdocs
 
 pages:
-- Home: README.md
-- Getting Started: Getting Started.md
+- Home: index.md
+- Getting Started: getting-started.md
