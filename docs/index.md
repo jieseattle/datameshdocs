@@ -1,4 +1,4 @@
-<img src="https://github.com/DataMesh-OpenSource/MeshExpert-Live/blob/master/resources/datamesh.png" width="400">
+<img src="https://cloud.githubusercontent.com/assets/7636848/26768086/eaa261ca-49d7-11e7-8094-7ad28093636b.png" width="400">
 
    Visit us at [www.datamesh.com](http://www.datamesh.com "DataMesh Home")
    
