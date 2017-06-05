@@ -1,6 +1,7 @@
 site_name: MeshExpert
 site_description: MeshExpert is a series products developed by DataMesh Inc. for data processing and mixed-reality show.
 site_author: Jianjun Xie
+copyright: "Copyright (C) 2016-2017 DataMesh Inc."
 
 repo_url: https://github.com/jieseattle/datameshdocs
 
