@@ -13,4 +13,6 @@ Visit [**MeshExpert Live! Documentation**](http://docs.datamesh.com/projects/me-
 
 ---
 
-Visit DataMesh Home at [www.datamesh.com](http://www.datamesh.com)
+Powered by DataMesh Inc.
+
+Visit us at [**www.datamesh.com**](http://www.datamesh.com)
