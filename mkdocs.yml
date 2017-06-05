@@ -1,9 +1,8 @@
-site_name: MeshExpert Live!
-site_description: A Mixed-Reality Show Product
+site_name: MeshExpert
+site_description: MeshExpert is a series products developed by DataMesh Inc. for data processing and mixed-reality show.
 site_author: Jianjun Xie
 
 repo_url: https://github.com/jieseattle/datameshdocs
 
 pages:
 - Home: index.md
-- Getting Started: getting-started.md
